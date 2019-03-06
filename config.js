@@ -8,10 +8,10 @@ var options = {
         reconnect: true
     },
     identity: {
-        username: "Matthew Harrilal",
-        password: "oauth:hqlbx099u269myf0rx029ijtyj1lp5" // Have to receive from tmi
+        username: "TestChatBot", // Cant have spaces
+        password: "oauth:i52q4sghr5edsa9j9cr0ccq15twlwm" // Have to receive from tmi
     },
     channels: ["jagermeiste11691"]
 };
 
-export default options;
+module.exports = options;
