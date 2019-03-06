@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^1.18.10",
     "tmi.js": "^1.4.2"
   }
 }
